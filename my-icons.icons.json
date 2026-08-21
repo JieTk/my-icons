@@ -1,22 +1,18 @@
 {
   "name": "my-icons",
-  "description": "JieTk 的自用 SVG 图标库",
+  "description": "自用图标库",
   "icons": [
     {
-      "name": "arrow-left.svg",
-      "url": "https://raw.githubusercontent.com/JieTk/my-icons/main/icons/arrows/arrow-left.svg"
+      "name": "Bilibili.png",
+      "url": "https://raw.githubusercontent.com/JieTk/my-icons/main/icon/Bilibili.png"
     },
     {
-      "name": "arrow-right.svg",
-      "url": "https://raw.githubusercontent.com/JieTk/my-icons/main/icons/arrows/arrow-right.svg"
-    },
+      "name": "WeChat.png",
+      "url": "https://raw.githubusercontent.com/JieTk/my-icons/main/icon/WeChat.png"
+    }，
     {
-      "name": "search.svg",
-      "url": "https://raw.githubusercontent.com/JieTk/my-icons/main/icons/interface/search.svg"
-    },
-    {
-      "name": "check.svg",
-      "url": "https://raw.githubusercontent.com/JieTk/my-icons/main/icons/actions/check.svg"
+      "name": "Wps.png",
+      "url": "https://raw.githubusercontent.com/JieTk/my-icons/main/icon/Wps.png"
     }
   ]
 }
