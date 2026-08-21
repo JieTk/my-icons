@@ -1,0 +1,22 @@
+{
+  "name": "my-icons",
+  "description": "JieTk 的自用 SVG 图标库",
+  "icons": [
+    {
+      "name": "arrow-left.svg",
+      "url": "https://raw.githubusercontent.com/JieTk/my-icons/main/icons/arrows/arrow-left.svg"
+    },
+    {
+      "name": "arrow-right.svg",
+      "url": "https://raw.githubusercontent.com/JieTk/my-icons/main/icons/arrows/arrow-right.svg"
+    },
+    {
+      "name": "search.svg",
+      "url": "https://raw.githubusercontent.com/JieTk/my-icons/main/icons/interface/search.svg"
+    },
+    {
+      "name": "check.svg",
+      "url": "https://raw.githubusercontent.com/JieTk/my-icons/main/icons/actions/check.svg"
+    }
+  ]
+}
